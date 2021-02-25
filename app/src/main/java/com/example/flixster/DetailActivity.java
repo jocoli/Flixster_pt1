@@ -75,7 +75,7 @@ public class DetailActivity extends YouTubeBaseActivity {
 
 
     }
-
+    //note
     private void initializeYoutube(String youtubeKey) {
         youTubePlayerView.initialize(YOUTUBE_API_KEY, new YouTubePlayer.OnInitializedListener() {
             @Override
